@@ -1,0 +1,10 @@
+This
+is
+first
+file
+in
+task
+2
+in
+Java
+Specialization.
