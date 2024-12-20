@@ -1,10 +1,10 @@
 That
 is
-not a second
+definitely first
 file
 in
 task
-not 1
+definitely two
 in
 Java
 Laboratory!
